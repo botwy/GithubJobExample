@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "GithubJobAPI",
+        "repositoryURL": "https://github.com/xhrobj/GithubJobAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "30572777661d92c7643996373cf2d38192556c42",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "GithubJobServices",
+        "repositoryURL": "https://github.com/xhrobj/GithubJobServices",
+        "state": {
+          "branch": null,
+          "revision": "ba75fa809468d19c0dba1325a2f3c0113c86cab3",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "PositionUserDefaultsStorage",
+        "repositoryURL": "https://github.com/xhrobj/PositionUserDefaultsStorage",
+        "state": {
+          "branch": null,
+          "revision": "c1e22c7fb26b68d61cbb05aa0f683926909ca884",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "UICore",
+        "repositoryURL": "https://github.com/xhrobj/UICore",
+        "state": {
+          "branch": null,
+          "revision": "caa9f6bdbd2adfd08e5d90467e9b7a9aa040ba46",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
